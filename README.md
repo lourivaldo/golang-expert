@@ -14,7 +14,7 @@
 	- [x] Entendendo a primeira linha
 	- [x] Declaração e atribuição
 	- [x] Criação de tipos
-	- [ ] Importando fmt e tipagem
+	- [x] Importando fmt e tipagem
 	- [ ] Percorrendo Arrays
 	- [ ] Slices
 	- [ ] Maps
