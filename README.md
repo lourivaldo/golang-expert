@@ -12,7 +12,7 @@
 	- [x] Go no VSCode
 - Fundação
 	- [x] Entendendo a primeira linha
-	- [ ] Declaração e atribuição
+	- [x] Declaração e atribuição
 	- [ ] Criação de tipos
 	- [ ] Importando fmt e tipagem
 	- [ ] Percorrendo Arrays
