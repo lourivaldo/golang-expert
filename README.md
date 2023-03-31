@@ -13,7 +13,7 @@
 - Fundação
 	- [x] Entendendo a primeira linha
 	- [x] Declaração e atribuição
-	- [ ] Criação de tipos
+	- [x] Criação de tipos
 	- [ ] Importando fmt e tipagem
 	- [ ] Percorrendo Arrays
 	- [ ] Slices
