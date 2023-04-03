@@ -17,7 +17,7 @@
 	- [x] Importando fmt e tipagem
 	- [x] Percorrendo Arrays
 	- [x] Slices
-	- [ ] Maps
+	- [x] Maps
 	- [ ] Funções
 	- [ ] Funções variádicas
 	- [ ] Closures
