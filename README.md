@@ -15,8 +15,8 @@
 	- [x] Declaração e atribuição
 	- [x] Criação de tipos
 	- [x] Importando fmt e tipagem
-	- [ ] Percorrendo Arrays
-	- [ ] Slices
+	- [x] Percorrendo Arrays
+	- [x] Slices
 	- [ ] Maps
 	- [ ] Funções
 	- [ ] Funções variádicas
