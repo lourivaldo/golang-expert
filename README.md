@@ -18,7 +18,7 @@
 	- [x] Percorrendo Arrays
 	- [x] Slices
 	- [x] Maps
-	- [ ] Funções
+	- [x] Funções
 	- [ ] Funções variádicas
 	- [ ] Closures
 	- [ ] Iniciando com Structs
