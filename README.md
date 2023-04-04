@@ -19,8 +19,8 @@
 	- [x] Slices
 	- [x] Maps
 	- [x] Funções
-	- [ ] Funções variádicas
-	- [ ] Closures
+	- [x] Funções variádicas
+	- [x] Closures
 	- [ ] Iniciando com Structs
 	- [ ] Composição de Structs
 	- [ ] Métodos em Structs
