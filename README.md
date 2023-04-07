@@ -21,7 +21,7 @@
 	- [x] Funções
 	- [x] Funções variádicas
 	- [x] Closures
-	- [ ] Iniciando com Structs
+	- [x] Iniciando com Structs
 	- [ ] Composição de Structs
 	- [ ] Métodos em Structs
 	- [ ] Interfaces
