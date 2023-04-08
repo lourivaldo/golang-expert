@@ -23,8 +23,8 @@
 	- [x] Closures
 	- [x] Iniciando com Structs
 	- [x] Composição de Structs
-	- [ ] Métodos em Structs
-	- [ ] Interfaces
+	- [x] Métodos em Structs
+	- [x] Interfaces
 	- [ ] Ponteiros
 	- [ ] Quando usar ponteiros
 	- [ ] Ponteiros e Structs
