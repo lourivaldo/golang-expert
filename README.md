@@ -25,7 +25,7 @@
 	- [x] Composição de Structs
 	- [x] Métodos em Structs
 	- [x] Interfaces
-	- [ ] Ponteiros
+	- [x] Ponteiros
 	- [ ] Quando usar ponteiros
 	- [ ] Ponteiros e Structs
 	- [ ] Interfaces vazias
