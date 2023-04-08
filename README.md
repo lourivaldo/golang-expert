@@ -22,7 +22,7 @@
 	- [x] Funções variádicas
 	- [x] Closures
 	- [x] Iniciando com Structs
-	- [ ] Composição de Structs
+	- [x] Composição de Structs
 	- [ ] Métodos em Structs
 	- [ ] Interfaces
 	- [ ] Ponteiros
