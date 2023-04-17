@@ -29,7 +29,7 @@
 	- [x] Quando usar ponteiros
 	- [x] Ponteiros e Structs
 	- [x] Interfaces vazias
-	- [ ] Type assertation
+	- [x] Type assertation
 	- [ ] Generics
 	- [ ] Pacotes e módulos parte 1
 	- [ ] Pacotes e módulos parte 2
