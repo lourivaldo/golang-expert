@@ -27,7 +27,7 @@
 	- [x] Interfaces
 	- [x] Ponteiros
 	- [x] Quando usar ponteiros
-	- [ ] Ponteiros e Structs
+	- [x] Ponteiros e Structs
 	- [ ] Interfaces vazias
 	- [ ] Type assertation
 	- [ ] Generics
