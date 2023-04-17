@@ -28,7 +28,7 @@
 	- [x] Ponteiros
 	- [x] Quando usar ponteiros
 	- [x] Ponteiros e Structs
-	- [ ] Interfaces vazias
+	- [x] Interfaces vazias
 	- [ ] Type assertation
 	- [ ] Generics
 	- [ ] Pacotes e módulos parte 1
