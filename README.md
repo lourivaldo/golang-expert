@@ -26,7 +26,7 @@
 	- [x] Métodos em Structs
 	- [x] Interfaces
 	- [x] Ponteiros
-	- [ ] Quando usar ponteiros
+	- [x] Quando usar ponteiros
 	- [ ] Ponteiros e Structs
 	- [ ] Interfaces vazias
 	- [ ] Type assertation
