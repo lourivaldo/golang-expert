@@ -30,7 +30,7 @@
 	- [x] Ponteiros e Structs
 	- [x] Interfaces vazias
 	- [x] Type assertation
-	- [ ] Generics
+	- [x] Generics
 	- [ ] Pacotes e módulos parte 1
 	- [ ] Pacotes e módulos parte 2
 	- [ ] Pacotes e módulos parte 3
